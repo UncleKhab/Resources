@@ -6,6 +6,6 @@ Icons :
   - https://www.iconfinder.com/
   
 Inspiration:
-  - behance.net
-  - dribble.com
-  - niice.co
+  - https://behance.net
+  - https://dribble.com
+  - https://niice.co
