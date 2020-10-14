@@ -7,5 +7,5 @@ Icons :
   
 Inspiration:
   - https://behance.net
-  - https://dribble.com
+  - https://dribbble.com
   - https://niice.co
