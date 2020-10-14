@@ -16,3 +16,7 @@ Colors :
   - Gradients :
     - https://www.grabient.com
     
+Fonts: 
+  - https://fonts.google.com/
+  + https://fonts.adobe.com/
+    
