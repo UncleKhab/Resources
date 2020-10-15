@@ -19,4 +19,7 @@ Colors :
 Fonts: 
   - https://fonts.google.com/
   + https://fonts.adobe.com/
+  - Font Pairings:
+    - https://fontpair.co/
+    - http://typ.io/libraries/typekit
     
