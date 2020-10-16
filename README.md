@@ -27,4 +27,9 @@ Buttons:
   - https://uxplanet.org/search?q=buttons
   - https://uimovement.com/_/search/?q=buttons
   
+Images:
+  - https://www.pexels.com/
+  - https://www.freeimages.com/
+  - https://unsplash.com/
+  
     
