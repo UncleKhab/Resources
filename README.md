@@ -48,4 +48,9 @@ Illustrations :
 Backgrounds :
   - https://www.uigoodies.com/
   
+ 
+#JS
+
+Tools: 
+  - http://latentflip.com/loupe
     
