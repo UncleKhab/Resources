@@ -53,4 +53,5 @@ Backgrounds :
 
 Tools: 
   - http://latentflip.com/loupe
+  - https://jsonformatter.curiousconcept.com/
     
