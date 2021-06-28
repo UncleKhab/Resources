@@ -6,7 +6,31 @@ React:
    - https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a
    - https://medium.freecodecamp.org/summer-is-over-you-should-be-coding-heres-yet-another-list-of-exciting-ideas-to-build-a95d7704d36d
    
-   
+# JS
+
+Tools: 
+  - http://latentflip.com/loupe
+  - https://jsonformatter.curiousconcept.com/
+# React
+
+Libraries:
+  - https://material-ui.com/
+  - https://www.meteor.com/
+
+# Express
+
+Usefull packages:
+  - https://www.npmjs.com/package/express (Express pack)
+  - https://www.npmjs.com/package/ejs (Templating Functionality)
+  - https://www.npmjs.com/package/morgan (Console requests display)
+  - https://www.npmjs.com/package/ejs-mate ( extendend templating functionality for EJS )
+  - https://www.npmjs.com/package/method-override (Allows you to overwrite HTML requests)
+
+# Front End Libraries
+Libraries:
+   - https://getbootstrap.com/
+   - https://www.meteor.com/
+
 # Design
 -- UI / UX
 Icons :
@@ -49,17 +73,4 @@ Backgrounds :
   - https://www.uigoodies.com/
   
   
-# JS
 
-Tools: 
-  - http://latentflip.com/loupe
-  - https://jsonformatter.curiousconcept.com/
-    
-# Express
-
-Usefull packages:
-  - https://www.npmjs.com/package/express (Express pack)
-  - https://www.npmjs.com/package/ejs (Templating Functionality)
-  - https://www.npmjs.com/package/morgan (Console requests display)
-  - https://www.npmjs.com/package/ejs-mate ( extendend templating functionality for EJS )
-  - https://www.npmjs.com/package/method-override (Allows you to overwrite HTML requests)
