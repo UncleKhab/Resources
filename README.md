@@ -26,6 +26,10 @@ Usefull packages:
   - https://www.npmjs.com/package/ejs-mate ( extendend templating functionality for EJS )
   - https://www.npmjs.com/package/method-override (Allows you to overwrite HTML requests)
 
+# Mongo
+
+Integrating:
+  - https://www.npmjs.com/package/mongoose
 # Front End Libraries
 Libraries:
    - https://getbootstrap.com/
