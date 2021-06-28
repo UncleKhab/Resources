@@ -55,3 +55,11 @@ Tools:
   - http://latentflip.com/loupe
   - https://jsonformatter.curiousconcept.com/
     
+# Express
+
+Usefull packages:
+  - https://www.npmjs.com/package/express (Express pack)
+  - https://www.npmjs.com/package/ejs (Templating Functionality)
+  - https://www.npmjs.com/package/morgan (Console requests display)
+  - https://www.npmjs.com/package/ejs-mate ( extendend templating functionality for EJS )
+  - https://www.npmjs.com/package/method-override (Allows you to overwrite HTML requests)
