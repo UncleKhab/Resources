@@ -30,6 +30,8 @@ Usefull packages:
   - https://www.npmjs.com/package/express-session (Set and use sessions)
   - https://www.npmjs.com/package/connect-flash (Send one time messages to client)
   - https://www.npmjs.com/package/bcrypt (hashing and salting passwords)
+  - https://www.passportjs.org/ (Authentication)
+  - https://www.npmjs.com/package/passport-local-mongoose (Authentication)
 
 # Mongo
 
