@@ -27,6 +27,7 @@ Usefull packages:
   - https://www.npmjs.com/package/method-override (Allows you to overwrite HTML requests)
   - https://www.npmjs.com/package/joi (Schema Validatior)
   - https://www.npmjs.com/package/cookie-parser
+  - https://www.npmjs.com/package/express-session
 
 # Mongo
 
