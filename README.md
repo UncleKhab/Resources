@@ -29,6 +29,7 @@ Usefull packages:
   - https://www.npmjs.com/package/cookie-parser (Retrieve cookie info)
   - https://www.npmjs.com/package/express-session (Set and use sessions)
   - https://www.npmjs.com/package/connect-flash (Send one time messages to client)
+  - https://www.npmjs.com/package/bcrypt (hashing and salting passwords)
 
 # Mongo
 
