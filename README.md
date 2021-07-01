@@ -28,6 +28,7 @@ Usefull packages:
   - https://www.npmjs.com/package/joi (Schema Validatior)
   - https://www.npmjs.com/package/cookie-parser
   - https://www.npmjs.com/package/express-session
+  - https://www.npmjs.com/package/connect-flash
 
 # Mongo
 
