@@ -26,9 +26,9 @@ Usefull packages:
   - https://www.npmjs.com/package/ejs-mate ( extendend templating functionality for EJS )
   - https://www.npmjs.com/package/method-override (Allows you to overwrite HTML requests)
   - https://www.npmjs.com/package/joi (Schema Validatior)
-  - https://www.npmjs.com/package/cookie-parser
-  - https://www.npmjs.com/package/express-session
-  - https://www.npmjs.com/package/connect-flash
+  - https://www.npmjs.com/package/cookie-parser (Retrieve cookie info)
+  - https://www.npmjs.com/package/express-session (Set and use sessions)
+  - https://www.npmjs.com/package/connect-flash (Send one time messages to client)
 
 # Mongo
 
