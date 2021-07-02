@@ -33,6 +33,7 @@ Usefull packages:
   - https://www.passportjs.org/ (Authentication)
   - https://www.npmjs.com/package/passport-local-mongoose (Authentication)
   - https://www.npmjs.com/package/multer ( Parse multipart/formdata )
+  - https://www.npmjs.com/package/dotenv
 
 # Mongo
 
