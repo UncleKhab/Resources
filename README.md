@@ -84,6 +84,9 @@ Illustrations :
 
 Backgrounds :
   - https://www.uigoodies.com/
-  
+ 
+ 
+# CDN
+  - https://cloudinary.com/
   
 
