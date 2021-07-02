@@ -43,7 +43,9 @@ Libraries:
    - https://www.meteor.com/
 
 # Design
--- UI / UX
+
+CSS Helpers: 
+  - https://github.com/LunarLogic/starability (Nice 5Star Rating CSS File)
 Icons :
   - https://www.flaticon.com/search?word=image
   - https://material.io/
