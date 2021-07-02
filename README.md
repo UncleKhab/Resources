@@ -90,7 +90,8 @@ Backgrounds :
   - https://www.uigoodies.com/
  
  
-# CDN
-  - https://cloudinary.com/
+# Services
+  - https://cloudinary.com/ (CDN)
+  - https://www.mapbox.com/ (Map)
   
 
