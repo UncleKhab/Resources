@@ -32,10 +32,11 @@ Usefull packages:
   - https://www.npmjs.com/package/bcrypt (hashing and salting passwords)
   - https://www.passportjs.org/ (Authentication)
   - https://www.npmjs.com/package/passport-local-mongoose (Authentication)
+  - https://www.npmjs.com/package/dotenv ( serving ENV variables)
   - https://www.npmjs.com/package/multer ( Parse multipart/formdata )
-  - https://www.npmjs.com/package/dotenv
-  - https://www.npmjs.com/package/cloudinary
-  - https://www.npmjs.com/package/multer-storage-cloudinary
+  - https://www.npmjs.com/package/cloudinary (image CDN)
+  - https://www.npmjs.com/package/multer-storage-cloudinary (cloudinary helper)
+  - https://www.npmjs.com/package/@mapbox/mapbox-sdk ( for mapbox)
 
 # Mongo
 
