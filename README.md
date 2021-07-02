@@ -34,6 +34,8 @@ Usefull packages:
   - https://www.npmjs.com/package/passport-local-mongoose (Authentication)
   - https://www.npmjs.com/package/multer ( Parse multipart/formdata )
   - https://www.npmjs.com/package/dotenv
+  - https://www.npmjs.com/package/cloudinary
+  - https://www.npmjs.com/package/multer-storage-cloudinary
 
 # Mongo
 
