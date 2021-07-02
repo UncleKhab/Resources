@@ -32,6 +32,7 @@ Usefull packages:
   - https://www.npmjs.com/package/bcrypt (hashing and salting passwords)
   - https://www.passportjs.org/ (Authentication)
   - https://www.npmjs.com/package/passport-local-mongoose (Authentication)
+  - https://www.npmjs.com/package/multer ( Parse multipart/formdata )
 
 # Mongo
 
