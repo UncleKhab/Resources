@@ -39,6 +39,7 @@ Usefull packages:
   - https://www.npmjs.com/package/@mapbox/mapbox-sdk ( for mapbox)
   - https://www.npmjs.com/package/express-mongo-sanitize ( HTML middleware Sanitizer )
   - https://www.npmjs.com/package/sanitize-html (Sanitize helper for joi)
+  - https://www.npmjs.com/package/helmet (Security)
 
 # Mongo
 
