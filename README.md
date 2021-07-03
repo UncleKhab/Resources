@@ -48,6 +48,7 @@ Integrating:
 
 Production:
   - https://www.mongodb.com/cloud/atlas
+  - https://www.npmjs.com/package/connect-mongo ( Storing Sessions )
 # Front End Libraries
 Libraries:
    - https://getbootstrap.com/
