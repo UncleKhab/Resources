@@ -37,6 +37,8 @@ Usefull packages:
   - https://www.npmjs.com/package/cloudinary (image CDN)
   - https://www.npmjs.com/package/multer-storage-cloudinary (cloudinary helper)
   - https://www.npmjs.com/package/@mapbox/mapbox-sdk ( for mapbox)
+  - https://www.npmjs.com/package/express-mongo-sanitize ( HTML middleware Sanitizer )
+  - https://www.npmjs.com/package/sanitize-html (Sanitize helper for joi)
 
 # Mongo
 
