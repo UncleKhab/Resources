@@ -45,6 +45,9 @@ Usefull packages:
 
 Integrating:
   - https://www.npmjs.com/package/mongoose
+
+Production:
+  - https://www.mongodb.com/cloud/atlas
 # Front End Libraries
 Libraries:
    - https://getbootstrap.com/
