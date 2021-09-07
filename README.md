@@ -1,7 +1,7 @@
 # Resources
 # Project Ideas
 
-React:
+## React:
    - https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d
    - https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a
    - https://medium.freecodecamp.org/summer-is-over-you-should-be-coding-heres-yet-another-list-of-exciting-ideas-to-build-a95d7704d36d
@@ -13,24 +13,24 @@ Tools:
   - https://jsonformatter.curiousconcept.com/
 # React
 
-##Libraries:
+## Libraries:
   - https://material-ui.com/
   - https://www.meteor.com/
   - https://styled-components.com/
 
-##Packs: 
+## Packs: 
   - https://www.npmjs.com/package/sortable (drag and drop)
   - https://www.npmjs.com/package/react-chartjs-2 (graphs and charts)
   - https://www.npmjs.com/package/puppeteer 
 
-  ###Animations:
+  ### Animations:
      - https://www.npmjs.com/package/react-transition-group (animations)
      - https://www.npmjs.com/package/react-motion (animations)
      - https://www.npmjs.com/package/react-move (animations)
   
 # Express
 
-Usefull packages:
+## Usefull packages:
   - https://www.npmjs.com/package/express (Express pack)
   - https://www.npmjs.com/package/ejs (Templating Functionality)
   - https://www.npmjs.com/package/morgan (Console requests display)
@@ -54,63 +54,68 @@ Usefull packages:
 
 # Mongo
 
-Integrating:
+## Integrating:
   - https://www.npmjs.com/package/mongoose
 
-Production:
+## Production:
   - https://www.mongodb.com/cloud/atlas
   - https://www.npmjs.com/package/connect-mongo ( Storing Sessions )
 # Front End Libraries
-Libraries:
+## Libraries:
    - https://getbootstrap.com/
    - https://www.meteor.com/
 
 # Design
 
-CSS Helpers: 
+## CSS Helpers: 
   - https://github.com/LunarLogic/starability (Nice 5Star Rating CSS File)
-Icons :
+## Icons :
   - https://www.flaticon.com/search?word=image
   - https://material.io/
   - https://www.iconfinder.com/
   - https://svgbox.net/iconsets
   
-Inspiration:
+## Inspiration:
   - https://behance.net
   - https://dribbble.com
   - https://niice.co
   
-Colors :
+## Colors :
   - http://color.adobe.com
   - https://paletton.com/
   - Gradients :
     - https://www.grabient.com
     
-Fonts: 
+## Fonts: 
   - https://fonts.google.com/
   + https://fonts.adobe.com/
   - Font Pairings:
     - https://fontpair.co/
     - http://typ.io/libraries/typekit
  
-Buttons:
+## Buttons:
   - https://uxplanet.org/search?q=buttons
   - https://uimovement.com/_/search/?q=buttons
   
-Images:
+## Images:
   - https://www.pexels.com/
   - https://www.freeimages.com/
   - https://unsplash.com/
   
-Illustrations :
+## Illustrations :
   - https://undraw.co/
 
-Backgrounds :
+## Backgrounds :
   - https://www.uigoodies.com/
  
  
 # Services
   - https://cloudinary.com/ (CDN)
   - https://www.mapbox.com/ (Map)
+
+# Hosting
+  - https://vercel.com/dashboard (next js projects)
+  - https://firebase.google.com/ (react projects)
+  - https://www.heroku.com/ (backend projects)
   
 
