@@ -18,6 +18,12 @@ Libraries:
   - https://www.meteor.com/
   - https://styled-components.com/
 
+Packs: 
+  - https://www.npmjs.com/package/react-transition-group (animations)
+  - https://www.npmjs.com/package/sortable (drag and drop)
+  - https://www.npmjs.com/package/react-chartjs-2 (graphs and charts)
+  - https://www.npmjs.com/package/puppeteer 
+
 # Express
 
 Usefull packages:
