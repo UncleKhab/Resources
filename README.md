@@ -13,17 +13,21 @@ Tools:
   - https://jsonformatter.curiousconcept.com/
 # React
 
-Libraries:
+##Libraries:
   - https://material-ui.com/
   - https://www.meteor.com/
   - https://styled-components.com/
 
-Packs: 
-  - https://www.npmjs.com/package/react-transition-group (animations)
+##Packs: 
   - https://www.npmjs.com/package/sortable (drag and drop)
   - https://www.npmjs.com/package/react-chartjs-2 (graphs and charts)
   - https://www.npmjs.com/package/puppeteer 
 
+  ###Animations:
+     - https://www.npmjs.com/package/react-transition-group (animations)
+     - https://www.npmjs.com/package/react-motion (animations)
+     - https://www.npmjs.com/package/react-move (animations)
+  
 # Express
 
 Usefull packages:
